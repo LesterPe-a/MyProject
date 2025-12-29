@@ -66,7 +66,7 @@ echo 'INSERT-INSTALL-COMMAND-HERE'
 
  **Testing**
 
- Myproject uses the **{test_framework}** test framework. Run the test suite with:
+ Myproject uses the **{test_framework}**. Run the test suite with:
  echo 'INSERT-TEST-COMMAND-HERE'
 
  
